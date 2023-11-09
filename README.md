@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **My own website**
 
-- 🌱 I’m currently learning **Unity with C#, C++ and VueJS**
+- 🌱 I’m currently learning **Web development**
 
 - 📫 How to reach me **mathieu.couronne@epitech.eu**
 
